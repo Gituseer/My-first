@@ -1,0 +1,9 @@
+git init: Begin a new repository
+
+git status: Information repository
+
+git add: Add a new file to repository
+
+git commit -m " ": Commit repository
+
+git add --all: Add all files to repository
