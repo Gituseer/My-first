@@ -7,3 +7,19 @@ git add: Add a new file to repository
 git commit -m " ": Commit repository
 
 git add --all: Add all files to repository
+
+git config --global user.email ""
+
+git config --global user.name "Hash"
+
+git commit My first commit Esc
+
+git log /Watch all commits
+
+git checkout -- /For restore all changes of files
+
+git diff /For watch the differences did on the files
+
+
+
+
